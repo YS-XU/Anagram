@@ -1,4 +1,4 @@
-package com.gradescope.anagram; // DO NOT MODIFY PACKAGE NAME OR CLASS NAME
+//package com.gradescope.anagram; // DO NOT MODIFY PACKAGE NAME OR CLASS NAME
 
 import java.io.File;
 import java.io.FileNotFoundException;
